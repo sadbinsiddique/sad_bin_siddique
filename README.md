@@ -1,23 +1,5 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 <a href="https://github.com/sadbinsiddique/sad_bin_siddique">
   <img align="left" src="./public/sad_bin_siddique.jpg" alt="Sad Bin Siddique" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
 </a>
@@ -33,14 +15,6 @@
     <img src="https://img.shields.io/badge/Meet-Join-4285F4?style=flat-square&logo=google-meet&logoColor=white" alt="Google Meet" />
   </a>
 </p>
-
-<br clear="left" />
-
-[![Viewers][viewers-shield]][viewers-url]
-[![Stars][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
-<br />
 
 <details>
   <summary>Table of Contents</summary>
@@ -67,9 +41,11 @@
   </ol>
 </details>
 
-## About The Project
+[![Viewers][viewers-shield]][viewers-url]
+[![Stars][stars-shield]][stars-url]
+[![License][license-shield]][license-url]
 
-![Sad Bin Siddique Portfolio](./public/Screenshot.png)
+## About Project
 
 Since of my joining **AIUB**, I’ve focused on bridging the gap between theory and production. This repository showcases a `high-performance FAPN Stack` architecture integrating a scalable FastAPI backend with a responsive Next.js frontend to solve real-world complexities.
 
@@ -126,12 +102,15 @@ _Below is an example of how can instruct audience on installing._
 ## Roadmap
 
 - [x] Add Changelog
-- [x] Add back to top links![1777068410995](image/README/1777068410995.png)![1777068418135](image/README/1777068418135.png)
-- [ ] Add Additional Templates w/ Examples
+- [x] Add back to top links
+- [ ] Add Additional Website Elements
+    - [ ] Add "About Me" section with a brief bio and links to social media profiles
+    - [ ] Add "Projects" section showcasing other projects with links to their repositories
+    - [ ] Add "Contact" section with a contact form or email address for inquiries
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
     - [ ] English
-    - [ ]![1777068516004](image/README/1777068516004.png) Bangla
+    - [ ] Bangla
 
 See the [open issues](https://github.com/sadbinsiddique/sad_bin_siddique/issues) for a full list of proposed features.
 
