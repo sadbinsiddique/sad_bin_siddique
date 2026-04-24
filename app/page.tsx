@@ -1,5 +1,9 @@
+import Navbar from "@/components/shadcn-space/radix/blocks/navbar-01/navbar";
+
 export default function Home() {
   return (
-   <div className="flex flex-col justify-center items-center mt-10 font-bold">Frontend by NEXT.js</div>
+   <>
+   <Navbar />
+   </>
   );
 }
