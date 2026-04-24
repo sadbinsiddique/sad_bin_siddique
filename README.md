@@ -7,7 +7,7 @@
 <h3 align="right">Sad Bin Siddique</h3>
 
 <p align="right">
-  Computer Science Engineering from AIUB
+  Computer Science Engineering from **AIUB**
   <br />
   UTC+6 (Dhaka)
 </p>
