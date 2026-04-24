@@ -75,7 +75,7 @@ bun run start
 
 _Below is an example of how can instruct audience on installing._
 
-1. Get API Key at [Sad Bin Siddique](mailto:sadbinsiddique@gmail.com)
+1. Get API Key from [OpenAI](https://platform.openai.com/account/api-keys)
 2. Clone the repo
    ```sh
    git clone https://github.com/sadbinsiddique/sad_bin_siddique.git
