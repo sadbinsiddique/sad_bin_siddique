@@ -9,11 +9,7 @@
 <p align="right">
   Computer Science Engineering student at AIUB
   <br />
-  <strong>Time Zone:</strong> UTC+6 (BST)
-  <br />
-  <a href="YOUR_GOOGLE_MEET_LINK_HERE">
-    <img src="https://img.shields.io/badge/Meet-Join-4285F4?style=flat-square&logo=google-meet&logoColor=white" alt="Google Meet" />
-  </a>
+  <strong>Time Zone: </strong> UTC+6 (Dhaka)
 </p>
 
 <details>
