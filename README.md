@@ -9,7 +9,7 @@
 <p align="right">
   Computer Science Engineering student at AIUB
   <br />
-  <strong>Time Zone: </strong> UTC+6 (Dhaka)
+  UTC+6 (Dhaka)
 </p>
 
 <details>
