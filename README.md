@@ -52,9 +52,7 @@ Since of my joining **AIUB**, I’ve focused on bridging the gap between theory 
 
 <p align="right"><a href="#readme-top">🔝</a></p>
 
-### Built With
-
-This project leverages with `FAPN stack`
+### Built With `FAPN stack`
 
 [![Next][Next.js]][Next-url] [![FastAPI][FastAPI.js]][FastAPI-url] [![Prisma][Prisma.com]][Prisma-url] [![Redis][Redis.com]][Redis-url]
 
