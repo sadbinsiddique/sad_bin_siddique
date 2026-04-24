@@ -54,7 +54,7 @@ Since of my joining **AIUB**, I’ve focused on bridging the gap between theory 
 * **Academic Excellence:** Implementing rigorous standards like 5th Normal Form database schema design and automated CI/CD pipelines.
 * **Community Driven:** By open-sourcing this architecture I aim to foster a collaborative environment where AIUB students and global developers can innovate together on high-speed data-driven applications.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝</a></p>
 
 ### Built With
 
@@ -62,7 +62,7 @@ This project leverages with `FAPN stack`
 
 [![Next][Next.js]][Next-url] [![FastAPI][FastAPI.js]][FastAPI-url] [![Prisma][Prisma.com]][Prisma-url] [![Redis][Redis.com]][Redis-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝</a></p>
 
 ## Getting Started
 
@@ -102,7 +102,7 @@ _Below is an example of how can instruct audience on installing._
 ## Roadmap
 
 - [x] Add Changelog
-- [x] Add back to top links
+- [x] Add Top Navigation links
 - [ ] Add Additional Website Elements
     - [ ] Add "About Me" section with a brief bio and links to social media profiles
     - [ ] Add "Projects" section showcasing other projects with links to their repositories
@@ -114,7 +114,7 @@ _Below is an example of how can instruct audience on installing._
 
 See the [open issues](https://github.com/sadbinsiddique/sad_bin_siddique/issues) for a full list of proposed features.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝</a></p>
 
 
 
@@ -136,7 +136,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Distributed under the Creative Commons Attribution 4.0 International [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/) License.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝</a></p>
 
 <!-- URLs and References -->
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white
